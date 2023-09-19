@@ -104,5 +104,5 @@
 }
 
 .captcha {
-    display: none;
+    visibility: hidden;
 }
