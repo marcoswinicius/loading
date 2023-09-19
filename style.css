@@ -103,6 +103,9 @@
     color: #ffffff;
 }
 
-.captcha {
-    visibility: hidden;
+
+
+#captcha1 {
+    font-size: 16px;
+    margin-top: 20px;
 }
