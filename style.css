@@ -89,6 +89,8 @@
    
 }
 
+
+
 @keyframes animation {
     50% {
         left: 96px;
@@ -101,3 +103,6 @@
     color: #ffffff;
 }
 
+.captcha {
+    display: none;
+}
